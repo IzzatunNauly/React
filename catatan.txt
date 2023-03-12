@@ -1,0 +1,26 @@
+cara install react
+--> membuat react project baru
+- bikin folder terlebih dahulu kemudian buka visual studio code 
+- buka terminal dan ketikkan "npx create-react-app my-app" itu untuk membuat folder react bernama my-app
+- masuk ke folder my-app kemudian ketikan "npm start" untuk memulai react
+
+--> tambahkan react ke situs web
+Langkah 1 -> Tambahkan tag HTML root
+pertama, buka halaman HTML yang akan diedit. tambahkan tag kosong <div> untuk menandai tempat dimana anda ingin menampilkan sesuatu dengan react. contohnya seperti berikut
+
+<div id="like-button-root"></div>
+
+ini disebut root karena disitulah akan dimulai membuat react dan kita bisa menambahkan tag <body> didalamnya
+
+Langkah 2 -> Tambahkan tag skrip
+Di halaman HTML, tepat sebelum </body>tag penutup, tambahkan tiga <script>tag untuk file berikut:
+react.development.js = memungkinkan Anda menentukan komponen React.
+react-dom.development.js = memungkinkan React merender elemen HTML ke DOM.
+like-button.js = adalah tempat Anda akan menulis komponen Anda di langkah berikutnya!
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <script src="like-button.js"></script>
+
+Langkah 3 -> Buat komponen react
+di contohkan pada vs code bagian button, navbar dan footer
