@@ -44,4 +44,5 @@ like-button.js = adalah tempat Anda akan menulis komponen Anda di langkah beriku
 Langkah 3 -> Buat komponen react
 di contohkan pada vs code bagian button, navbar dan footer
 
-- untuk menginstal R2D yang digunakan untuk multirouting
+- untuk menginstal R2D yang digunakan untuk multirouting atau menggunakan bootstrap
+npm install --save react-bootstrap-validation
