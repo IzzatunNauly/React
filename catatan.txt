@@ -1,3 +1,7 @@
+React JS adalah library JavaScript yang biasa digunakan saat membangun UI suatu website atau aplikasi web. 
+
+Jadi, React JS bisa dianggap seperti perpustakaan yang berisi berbagai kode JavaScript yang sudah tertulis (pre-written) sehingga tinggal mengambil kode yang ingin Anda gunakan dan dapat membuat proses coding menjadi lebih efisien dengan framework JavaScript tersebut.
+
 cara install react
 --> membuat react project baru
 - bikin folder terlebih dahulu kemudian buka visual studio code 
@@ -24,3 +28,5 @@ like-button.js = adalah tempat Anda akan menulis komponen Anda di langkah beriku
 
 Langkah 3 -> Buat komponen react
 di contohkan pada vs code bagian button, navbar dan footer
+
+- untuk menginstal R2D yang digunakan untuk multirouting
