@@ -2,6 +2,21 @@ React JS adalah library JavaScript yang biasa digunakan saat membangun UI suatu 
 
 Jadi, React JS bisa dianggap seperti perpustakaan yang berisi berbagai kode JavaScript yang sudah tertulis (pre-written) sehingga tinggal mengambil kode yang ingin Anda gunakan dan dapat membuat proses coding menjadi lebih efisien dengan framework JavaScript tersebut.
 
+kegunaan react?
+React adalah sebuah pustaka JavaScript yang digunakan untuk membangun antarmuka pengguna (user interface/UI) yang interaktif dan dapat diubah dengan cepat. React dirancang untuk memudahkan pengembangan aplikasi web dengan memberikan kemampuan untuk memecah antarmuka pengguna menjadi komponen-komponen yang dapat diubah dengan cepat. Beberapa kegunaan React antara lain:
+
+1. Pengembangan aplikasi web yang lebih cepat: Dengan React, Anda dapat memecah antarmuka pengguna menjadi beberapa komponen yang dapat diubah dengan cepat. Hal ini memungkinkan Anda untuk membuat aplikasi web dengan cepat dan menghemat waktu pengembangan.
+
+2. Reusable UI components: Komponen-komponen dalam React dapat digunakan kembali di berbagai bagian aplikasi. Dengan demikian, pengembang tidak perlu mengembangkan ulang komponen yang sama berkali-kali. Hal ini memungkinkan untuk mengurangi waktu dan usaha yang dibutuhkan untuk mengembangkan aplikasi.
+
+3. SEO-friendly: React memungkinkan pengembang untuk membuat aplikasi web yang lebih mudah diindeks oleh mesin pencari seperti Google. Hal ini dapat membantu meningkatkan lalu lintas organik ke situs web Anda.
+
+4. Cross-platform development: React dapat digunakan untuk pengembangan aplikasi web yang dapat berjalan pada berbagai platform, seperti web, Android, dan iOS. Hal ini memungkinkan untuk mengembangkan aplikasi yang dapat diakses oleh pengguna di berbagai platform.
+
+5. Scalability: React dirancang untuk memudahkan skalabilitas aplikasi web. Hal ini memungkinkan Anda untuk mengembangkan aplikasi yang dapat menangani jumlah pengguna yang besar dengan mudah.
+
+6. Large community support: React memiliki komunitas yang besar dan aktif. Hal ini memudahkan pengembang untuk mendapatkan dukungan dan sumber daya yang mereka butuhkan untuk mengembangkan aplikasi web menggunakan React.
+
 cara install react
 --> membuat react project baru
 - bikin folder terlebih dahulu kemudian buka visual studio code 
